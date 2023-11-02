@@ -14,11 +14,7 @@ This is a simple crypto order application built with React. It allows users to p
 
 - **CSS:** CSS is used for styling the app, providing a clean and visually appealing user interface.
 
-## Installation
 
-To run the application locally, follow these steps:
-
-1. Clone the project repository to your local machine using the following command:
 
 ```bash
 git clone https://github.com/yourusername/Crypto-Order-App.git
